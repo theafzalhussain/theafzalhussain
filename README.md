@@ -5,7 +5,7 @@
 I am a Frontend Developer and Web Developer who builds responsive, API-driven web applications with a focus on clean interfaces, maintainable components, and practical full-stack workflows. I am based in New Delhi, India and open to web development, frontend development, React.js, Next.js, and MERN stack internships or entry-level roles.
 
 - **Portfolio:** [afzalhussain.tech](https://afzalhussain.tech)
-- **LinkedIn:** [linkedin.com/in/afzalhussain](https://www.linkedin.com/in/afzalhussain)
+- **LinkedIn:** [linkedin.com/in/afzalhussain](https://www.linkedin.com/in/theafzalhussain)
 - **Email:** [theafzalhussain786@gmail.com](mailto:theafzalhussain786@gmail.com)
 - **Location:** New Delhi, India
 
