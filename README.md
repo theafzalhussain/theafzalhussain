@@ -2,10 +2,10 @@
 
 **Frontend Developer | Web Developer | React.js | Next.js | TypeScript | MERN Stack**
 
-I am a Frontend Developer and Web Developer who builds responsive, API-driven web applications with a focus on clean interfaces, maintainable components, and practical full-stack workflows. I am based in New Delhi, India and open to web development, frontend development, React.js, Next.js, and MERN stack internships or entry-level roles.
+I am a Frontend Developer and Web Developer who builds responsive, API-driven web applications with a focus on clean interfaces, maintainable components, and practical full-stack workflows. I am based in New Delhi, India and open to web development internships, React.js, Next.js, and MERN stack internships or entry-level roles.
 
 - **Portfolio:** [afzalhussain.tech](https://afzalhussain.tech)
-- **LinkedIn:** [linkedin.com/in/afzalhussain](https://www.linkedin.com/in/theafzalhussain)
+- **LinkedIn:** [linkedin.com/in/theafzalhussain](https://www.linkedin.com/in/theafzalhussain)
 - **Email:** [theafzalhussain786@gmail.com](mailto:theafzalhussain786@gmail.com)
 - **Location:** New Delhi, India
 
@@ -125,7 +125,7 @@ I am currently open to:
 
 If my projects and technical skills match what your team is building, please contact me:
 
-- **LinkedIn:** [linkedin.com/in/afzalhussain](https://www.linkedin.com/in/afzalhussain)
+- **LinkedIn:** [linkedin.com/in/theafzalhussain](https://www.linkedin.com/in/theafzalhussain)
 - **Email:** [theafzalhussain786@gmail.com](mailto:theafzalhussain786@gmail.com)
 - **Portfolio:** [afzalhussain.tech](https://afzalhussain.tech)
 
