@@ -5,7 +5,7 @@
 I am a Frontend Developer and Web Developer who builds responsive, API-driven web applications with a focus on clean interfaces, maintainable components, and practical full-stack workflows. I am based in New Delhi, India and open to web development internships, React.js, Next.js, and MERN stack internships or entry-level roles.
 
 - **Portfolio:** [afzalhussain.tech](https://afzalhussain.tech)
-- **LinkedIn:** [linkedin.com/in/theafzalhussain](https://www.linkedin.com/in/theafzalhussain)
+- **LinkedIn:** [linkedin.com/in/theafzalhussain](https://linkedin.com/in/theafzalhussain)
 - **Email:** [theafzalhussain786@gmail.com](mailto:theafzalhussain786@gmail.com)
 - **Location:** New Delhi, India
 
@@ -60,6 +60,27 @@ A full-stack TypeScript countries explorer built with React.js, Express.js, Tail
 - Structured API error handling
 
 [Live Demo](https://myrest-country.vercel.app) | [Source Code](https://github.com/theafzalhussain/New-RestCountry)
+
+### [SAARTHI — Personal Hinglish AI Agent](https://github.com/theafzalhussain/Sarthi)
+
+SAARTHI is a personal AI agent focused on Hinglish (Hindi-English) interactions and device control. Built with Python, it emphasizes safety, low-resource operation, and "Dikha Do" teachable skills.
+
+- Hinglish-first language handling and robust code-switched speech
+- Voice and CLI interfaces with optional phone control via ADB
+- Skill recording (Dikha Do Mode), self-healing UI automation, and safety confirmations
+- Lightweight setup (Python 3.9+, SQLite) and an extensive test suite
+
+[Source Code](https://github.com/theafzalhussain/Sarthi)
+
+### [news-app — React News Application](https://github.com/theafzalhussain/news-app)
+
+A news application built with Create React App. It provides a simple, responsive UI for browsing news, with support for search and client-side routing. Useful as a front-end demo and learning project.
+
+- Built with React (Create React App)
+- Local development with `npm start` and production build with `npm run build`
+- Good starting point for adding APIs, infinite scroll, and multi-source aggregation
+
+[Source Code](https://github.com/theafzalhussain/news-app)
 
 ## Technical Skills
 
@@ -125,7 +146,7 @@ I am currently open to:
 
 If my projects and technical skills match what your team is building, please contact me:
 
-- **LinkedIn:** [linkedin.com/in/theafzalhussain](https://www.linkedin.com/in/theafzalhussain)
+- **LinkedIn:** [linkedin.com/in/theafzalhussain](https://linkedin.com/in/theafzalhussain)
 - **Email:** [theafzalhussain786@gmail.com](mailto:theafzalhussain786@gmail.com)
 - **Portfolio:** [afzalhussain.tech](https://afzalhussain.tech)
 
