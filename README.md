@@ -1,153 +1,70 @@
-# Hi, I'm Afzal Hussain
+<p align="center">
+  <img src="https://github.com/theafzalhussain/theafzalhussain/blob/main/GIT%20BANNER%20IMAGE.webp" alt="Profile Banner" width="100%">
+</p>
 
-**Frontend Developer | Web Developer | React.js | Next.js | TypeScript | MERN Stack**
+<h1 align="center">Hi 👋, I'm Afzal Hussain!</h1>
 
-I am a Frontend Developer and Web Developer who builds responsive, API-driven web applications with a focus on clean interfaces, maintainable components, and practical full-stack workflows. I am based in New Delhi, India and open to web development internships, React.js, Next.js, and MERN stack internships or entry-level roles.
+<p align="center">📍 New Delhi, India</p>
 
-- **Portfolio:** [afzalhussain.tech](https://afzalhussain.tech)
-- **LinkedIn:** [linkedin.com/in/theafzalhussain](https://linkedin.com/in/theafzalhussain)
-- **Email:** [theafzalhussain786@gmail.com](mailto:theafzalhussain786@gmail.com)
-- **Location:** New Delhi, India
+<h3 align="center">I am a Frontend Developer and Web Developer who builds responsive, API-driven web applications with a focus on clean interfaces, maintainable components, and practical full-stack workflows. I am based in New Delhi, India and open to web development internships, React.js, Next.js, and MERN stack internships or entry-level roles.</h3>
 
-## Featured Projects
+<h3 align="left">More About Me:</h3>
 
-### [eShopper — Full-Stack E-Commerce Platform](https://github.com/theafzalhussain/eshopper)
+- 🌱 I’m currently learning: **TypeScript, Next.js**
+- 🔭 I’m currently working on: **Jarvis**
+- 💬 Ask me about: **Development**
+- 📫 How to reach me: [theafzalhussain786@gmail.com](mailto:theafzalhussain786@gmail.com)
+- 👨‍💻 **[My Portfolio](https://www.afzalhussain.tech/)**
+- 📝 **[My Blog/Articles](https://afzalhussain.tech)**
+- 📄 **[My Resume](https://www.afzalhussain.tech/)**
+- ⚡ Fun fact: **There is No Fun**
 
-React.js, Node.js, Express.js, MongoDB, Redis, BullMQ, Razorpay, and Socket.IO. Includes product discovery, cart and checkout, payment verification, order tracking, returns and refunds, background jobs, and admin workflows.
+<h3 align="left">Connect with me:</h3>
+<div class="social-icons-wrapper">
+<p style="text-align: left; display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
+<a href="https://github.com/theafzalhussain/" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
+    <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://linkedin.com/in/theafzalhussain/" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
+    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://instagram.com/theafzal_hussain_786" target="_blank" rel="noreferrer noopener" title="Instagram" class="social-icon-link">
+    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+</p>
+</div>
 
-- Razorpay payment processing and signature verification
-- Redis-backed caching
-- BullMQ background jobs
-- Order, return, and refund workflows
-- Responsive storefront and admin interfaces
+<div class="skills-section">
+<h3 align="left">Languages and Tools:</h3>
+<p style="text-align: left; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://cdn.simpleicons.org/html5" alt="HTML5" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=npm" alt="npm" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" height="45" style="vertical-align: middle; margin: 5px;" />
+</p>
+</div>
 
-[Live Demo](https://eshopperr.me) | [Source Code](https://github.com/theafzalhussain/eshopper)
+<p align="center"><img src="https://github-stats-extended.vercel.app/api?username=theafzalhussain&show_icons=true&locale=en&theme=gruvbox_light&count_private=true&hide_border=true" alt="theafzalhussain's GitHub Stats" /></p>
 
-### [Portfolio Website](https://github.com/theafzalhussain/Portfolio)
+<p align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=theafzalhussain&locale=en&theme=gruvbox_light&layout=compact&hide_border=true" alt="Top Languages" /></p>
 
-A responsive developer portfolio built with Next.js, React.js, TypeScript, Tailwind CSS, MongoDB, and Nodemailer. It showcases my projects, technical skills, training, and contact information.
-
-- Reusable React components
-- Responsive, mobile-first interface
-- Server-side contact API
-- MongoDB message storage
-- Email notifications with Nodemailer
-
-[Live Demo](https://afzalhussain.tech) | [Source Code](https://github.com/theafzalhussain/Portfolio)
-
-### [The Chronicle — Bilingual News Application](https://github.com/theafzalhussain/News-Web)
-
-A bilingual English and Hindi news application built with Next.js, TypeScript, Tailwind CSS, and SWR.
-
-- English and Hindi interface
-- Category-based news browsing
-- News search
-- Infinite scrolling
-- Multi-source news aggregation
-- Caching, deduplication, and stale-data fallback
-
-[Live Demo](https://mynews-web.vercel.app) | [Source Code](https://github.com/theafzalhussain/News-Web)
-
-### [World Explorer — Countries Application](https://github.com/theafzalhussain/New-RestCountry)
-
-A full-stack TypeScript countries explorer built with React.js, Express.js, Tailwind CSS, and TanStack Query.
-
-- Debounced country search
-- Region filtering and sorting
-- Responsive country card grid
-- Detailed country information
-- Typed Express API
-- Structured API error handling
-
-[Live Demo](https://myrest-country.vercel.app) | [Source Code](https://github.com/theafzalhussain/New-RestCountry)
-
-### [SAARTHI — Personal Hinglish AI Agent](https://github.com/theafzalhussain/Sarthi)
-
-SAARTHI is a personal AI agent focused on Hinglish (Hindi-English) interactions and device control. Built with Python, it emphasizes safety, low-resource operation, and "Dikha Do" teachable skills.
-
-- Hinglish-first language handling and robust code-switched speech
-- Voice and CLI interfaces with optional phone control via ADB
-- Skill recording (Dikha Do Mode), self-healing UI automation, and safety confirmations
-- Lightweight setup (Python 3.9+, SQLite) and an extensive test suite
-
-[Source Code](https://github.com/theafzalhussain/Sarthi)
-
-### [news-app — React News Application](https://github.com/theafzalhussain/news-app)
-
-A news application built with Create React App. It provides a simple, responsive UI for browsing news, with support for search and client-side routing. Useful as a front-end demo and learning project.
-
-- Built with React (Create React App)
-- Local development with `npm start` and production build with `npm run build`
-- Good starting point for adding APIs, infinite scroll, and multi-source aggregation
-
-[Source Code](https://github.com/theafzalhussain/news-app)
-
-## Technical Skills
-
-### Languages
-
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
-
-### Frontend Development
-
-- React.js
-- Next.js
-- React Router
-- Tailwind CSS
-- Bootstrap
-- Responsive Web Design
-- Mobile-First Development
-
-### Backend Development
-
-- Node.js
-- Express.js
-- REST APIs
-- MongoDB
-- Mongoose
-
-### Tools and Technologies
-
-- Git and GitHub
-- Redis
-- BullMQ
-- Razorpay
-- Socket.IO
-- Axios
-- Fetch API
-- JSON
-- Vercel
-- Render
-- npm and pnpm
-
-## Currently Learning
-
-- Advanced React.js and Next.js patterns
-- TypeScript best practices
-- Web performance optimization
-- Accessibility
-- Testing and continuous integration
-- Scalable full-stack application architecture
-
-## Currently Seeking
-
-I am currently open to:
-
-- Frontend Developer internships and entry-level roles
-- Web Developer internships and entry-level roles
-- React.js Developer roles
-- Next.js Developer roles
-- Junior MERN Stack Developer roles
-
-## Contact Me
-
-If my projects and technical skills match what your team is building, please contact me:
-
-- **LinkedIn:** [linkedin.com/in/theafzalhussain](https://linkedin.com/in/theafzalhussain)
-- **Email:** [theafzalhussain786@gmail.com](mailto:theafzalhussain786@gmail.com)
-- **Portfolio:** [afzalhussain.tech](https://afzalhussain.tech)
-
-I am available for internships, entry-level opportunities, remote roles, and on-site opportunities in New Delhi and the Delhi NCR region.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=theafzalhussain&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/theafzalhussain" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&amp;style=social" alt="Sponsor @theafzalhussain on GitHub" /></a>
+</p>
