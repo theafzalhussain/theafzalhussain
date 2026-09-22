@@ -8,31 +8,37 @@
 
 <h3 align="center">I am a Frontend Developer and Web Developer who builds responsive, API-driven web applications with a focus on clean interfaces, maintainable components, and practical full-stack workflows. I am based in New Delhi, India and open to web development internships, React.js, Next.js, and MERN stack internships or entry-level roles.</h3>
 
-<h3 align="left">More About Me:</h3>
-
-- 🌱 I’m currently learning: **TypeScript, Next.js**
-- 🔭 I’m currently working on: **Jarvis**
-- 💬 Ask me about: **Development**
-- 📫 How to reach me: [theafzalhussain786@gmail.com](mailto:theafzalhussain786@gmail.com)
-- 👨‍💻 **[My Portfolio](https://www.afzalhussain.tech/)**
-- 📝 **[My Blog/Articles](https://afzalhussain.tech)**
-- 📄 **[My Resume](https://www.afzalhussain.tech/)**
-- ⚡ Fun fact: **There is No Fun**
-
-<h3 align="left">Connect with me:</h3>
-<div class="social-icons-wrapper">
-<p style="text-align: left; display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
-<a href="https://github.com/theafzalhussain/" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://linkedin.com/in/theafzalhussain/" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://instagram.com/theafzal_hussain_786" target="_blank" rel="noreferrer noopener" title="Instagram" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
+<p align="center">
+  <strong>Frontend Developer Intern</strong> · React.js · Next.js · TypeScript · MERN<br>
+  New Delhi, India · Open to internships and entry-level roles (India + remote)
 </p>
-</div>
+
+<p align="center">
+  <a href="https://www.afzalhussain.tech/">Portfolio</a> ·
+  <a href="https://linkedin.com/in/theafzalhussain">LinkedIn</a> ·
+  <a href="mailto:theafzalhussain786@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to-Frontend_Internships-0B3D2E?style=flat-square" alt="Open to Frontend Internships">
+  <img src="https://img.shields.io/badge/Stack-React_+_Next.js_+_TypeScript-111111?style=flat-square" alt="React Next.js TypeScript">
+  <img src="https://img.shields.io/badge/Shipped-5_live_apps-2563eb?style=flat-square" alt="5 live apps">
+</p>
+---
+
+### What I build
+
+I ship **responsive, API-driven web applications** with clean component architecture, measurable performance, and production deployments. Recent work includes a full-stack e-commerce platform with payments and background jobs, an installable movie PWA with SEO rendering, and bilingual news discovery.
+
+### Featured work
+
+| Project | What it is | Stack | Live | Code |
+| --- | --- | --- | --- | --- |
+| **eShopper** | Fashion e-commerce with Razorpay, Redis cache (~60% fewer DB reads), BullMQ workers, Socket.IO order updates | React, Node, Express, MongoDB | [eshopperr.me](https://eshopperr.me) | [repo](https://github.com/theafzalhussain/eshopper) |
+| **MovieZone** | Installable movie & TV PWA with TMDB proxy, SSR SEO routes, Web Push, Smart TV D-pad | Vanilla JS, Express, PWA | [moviezone.dev](https://moviezone.dev) | [repo](https://github.com/theafzalhussain/Moviezonne) |
+| **Portfolio** | Recruiter-facing site with contact API, MongoDB persistence, Nodemailer | Next.js, TypeScript, Tailwind | [afzalhussain.tech](https://afzalhussain.tech) | [repo](https://github.com/theafzalhussain/Portfolio) |
+| **The Chronicle** | English + Hindi news across 8 categories; caching cut outbound API calls ~50% | Next.js, TypeScript, SWR | [live](https://mynews-web.vercel.app) | [repo](https://github.com/theafzalhussain/News-Web) |
+| **World Explorer** | 250-country explorer with 300ms debounced search; TanStack Query cut redundant requests ~70% | React, TypeScript, Express | [live](https://myrest-country.vercel.app) | [repo](https://github.com/theafzalhussain/New-RestCountry) |
 
 <div class="skills-section">
 <h3 align="left">Languages and Tools:</h3>
@@ -60,6 +66,19 @@
   <img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" height="45" style="vertical-align: middle; margin: 5px;" />
 </p>
 </div>
+
+
+### Currently
+
+- **Learning:** TypeScript patterns, Next.js App Router, accessible UI systems
+- **Building:** production-grade frontend work for internship / junior web roles
+- **Available:** Delhi NCR onsite or remote internships
+
+### How to reach me
+
+- Email: [theafzalhussain786@gmail.com](mailto:theafzalhussain786@gmail.com)
+- Portfolio: [afzalhussain.tech](https://www.afzalhussain.tech/)
+- LinkedIn: [linkedin.com/in/theafzalhussain](https://linkedin.com/in/theafzalhussain)
 
 <p align="center"><img src="https://github-stats-extended.vercel.app/api?username=theafzalhussain&show_icons=true&locale=en&theme=gruvbox_light&count_private=true&hide_border=true" alt="theafzalhussain's GitHub Stats" /></p>
 
