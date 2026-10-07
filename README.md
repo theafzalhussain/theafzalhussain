@@ -44,26 +44,20 @@ I ship **responsive, API-driven web applications** with clean component architec
 <h3 align="left">Languages and Tools:</h3>
 <p style="text-align: left; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
 <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://cdn.simpleicons.org/html5" alt="HTML5" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=redis" alt="Redis" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=npm" alt="npm" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" height="45" style="vertical-align: middle; margin: 5px;" />
 </p>
 </div>
 
